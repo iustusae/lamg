@@ -4,7 +4,6 @@ project(DSA)
 # Add the executable target for the test file
 add_executable(DSA
         tests/vec_t.cpp
-        impls/data_structs/s_vector.cpp
         )
 
 # Include directories
